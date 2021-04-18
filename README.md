@@ -9,5 +9,5 @@ Just go to your terminal, and hit `npx yash99`
 
 ### Here is the end result of my card.
 
-![image](https://cdn.discordapp.com/attachments/756111667150061668/800987089104666664/unknown.png)
+![image]()
 

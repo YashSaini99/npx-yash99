@@ -46,7 +46,7 @@ const data = {
     name: chalk.bold.green("                     Yash"),
     handle: chalk.white("@YashSaini99"),
     fact: chalk.hex('#B10000')('You\'re not the only one out there'),
-    twitter: chalk.hex('#00A1D9')("https://twitter.com/BlastoidAtomic"),
+    twitter: chalk.hex('#00A1D9')("https://twitter.com/YashSainii99"),
     discord: chalk.hex('#ffac00')("https://discord.gg/eJEBv7mRuJ"),
     github: chalk.hex('#787878')("https://github.com/YashSaini99"),
     website: chalk.hex('#00AB9E')("No Website For now"),

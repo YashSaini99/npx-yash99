@@ -21,7 +21,7 @@ const questions = [
             {
                 name: `Toss me an ${chalk.bold("email")}?`,
                 value: () => {
-                    open("mailto:contact.tupu4545@gmail.com");
+                    open("mailto:contact.gmailinvalid");
                     console.log("\nLooking forward to hearing your message and replying to you!\n");
                 }
             },

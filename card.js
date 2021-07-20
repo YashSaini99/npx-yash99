@@ -49,7 +49,7 @@ const data = {
     twitter: chalk.hex('#00A1D9')("https://twitter.com/YashSainii99"),
     discord: chalk.hex('#ffac00')("https://discord.gg/eJEBv7mRuJ"),
     github: chalk.hex('#787878')("https://github.com/YashSaini99"),
-    website: chalk.hex('#00AB9E')("Soon"),
+    website: chalk.hex('#00AB9E')("https://yash99.netlify.app"),
     npx: chalk.hex('#A1AB00')("npx yash99"),
 
     labelFact: chalk.hex('#FF6262').bold("          Fun Fact:"),

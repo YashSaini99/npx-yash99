@@ -1,5 +1,5 @@
 # npx-yash99
-My npx card for you to know more about me :D
+
 
 Just go to your terminal, and hit `npx yash99`
 
